@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nishchayramaul
 - 👀 I’m interested in ... Coding, Music and travelling
-- 🌱 I’m currently learning ... coding and more developing skills including frontend and backend techs.
+- 🌱 I’m currently learning ... coding and enhancing developing skills including frontend and backend technologies.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
